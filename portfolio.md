@@ -1,22 +1,85 @@
-👋 Welcome to Aaron Joezac's Portfolio!
+# 👋 Hi, I'm Aaron Joezac
 
-🔒 About Me:
-Hey there! I'm Aaron Joezac, and I'm thrilled to be part of the cybersecurity community on GitHub. As a newcomer to the exciting world of cybersecurity, 
-I'm eager to share my journey and collaborate with fellow enthusiasts. My passion for securing digital landscapes, protecting sensitive data, 
-and exploring the ever-evolving field of cybersecurity has driven me to build, learn, and contribute.
+Welcome to my GitHub!
 
-🚀 My Journey:
-I embarked on this cybersecurity adventure recently, with the determination to enhance my knowledge and skills continuously. 
-Explore my projects to see my cybersecurity progress, experiments, research, and innovative solutions. Let's grow together.
+I'm a **Data Analyst** with experience in **healthcare analytics, Python, SQL, AWS, and AI-powered data solutions**. I enjoy building data-driven applications that transform raw data into meaningful insights, automate workflows, and solve real-world problems.
 
-🤝 Collaboration:
-Cybersecurity is a team effort, and I'm keen to connect with like-minded individuals who share my enthusiasm for this field. 
-Pro or newbie, let's team up and make the digital world safer.
+## 🚀 What I'm Working On
 
-💼 Projects:
-Stay tuned as I upload my cybersecurity projects, which will range from practical tools to in-depth research findings. Your feedback and contributions are always welcome as we learn and grow together.
+I'm currently expanding my expertise across:
 
-📬 Get in Touch:
-Feel free to reach out to me if you'd like to discuss cybersecurity, share insights, or collaborate on a project. Let's build a strong, supportive community of cybersecurity enthusiasts.
+* 📊 Data Analytics
+* 🤖 Data Science & Machine Learning
+* ⚙️ Data Engineering
+* 🧠 Generative AI & NLP
+* ☁️ Cloud Data Solutions (AWS)
 
-Thank you for stopping by, and let's make the internet a safer place together! 🔐💻🌐
+My goal is to bridge analytics, engineering, and AI to build scalable, production-ready data solutions.
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+* Python
+* SQL
+
+**Data & Analytics**
+
+* Pandas
+* NumPy
+* Power BI
+* Excel
+
+**Machine Learning & AI**
+
+* Scikit-learn
+* XGBoost
+* NLP
+* Large Language Models (LLMs)
+
+**Data Engineering**
+
+* ETL Pipelines
+* Data Validation
+* Data Processing
+* AWS S3
+* AWS RDS
+* AWS Comprehend
+
+**Other**
+
+* Git & GitHub
+* Linux
+* JIRA
+
+## 📂 What You'll Find Here
+
+This GitHub is where I document my learning and showcase projects in:
+
+* End-to-end data analysis projects
+* Machine learning models
+* Data engineering pipelines
+* SQL case studies
+* Healthcare analytics
+* GenAI and LLM applications
+* Automation tools built with Python
+* Open-source contributions
+
+Every repository represents an opportunity to learn, experiment, and improve.
+
+## 📈 Current Learning Goals
+
+* Advanced Data Engineering
+* RAG Systems & AI Agents
+* MLOps
+* Distributed Data Processing
+* Cloud Architecture
+* Production-grade Machine Learning
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on projects related to **Data Analytics, Data Science, Data Engineering, AI, and Healthcare Technology**.
+
+If you have an interesting idea, want to collaborate, or simply want to discuss data and AI, feel free to connect.
+
+Thanks for stopping by! Happy coding. 🚀
